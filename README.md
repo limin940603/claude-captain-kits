@@ -16,12 +16,13 @@
 | 素材包 | 对应文章 | 评论领取 |
 |---|---|---|
 | [Claude 不封号自查清单](信息类/claude-ban-checklist/README.md)：对照官方条款查有没有踩线，被封了按顺序处理 | 史上最全：Claude 封号 3 大原因 + 3 个危险信号 | 「清单」 |
-| [压缩会话防失忆清单](信息类/compaction-checklist/README.md)：压缩前留什么、压缩后怎么找回 | 如何判断 Claude Code 和 Codex 压缩会话时遗忘了什么 | 「清单」 |
+| [压缩会话防失忆清单](信息类/compaction-checklist/README.md)：压缩前留什么、压缩后怎么找回 | AI压缩后忘事？照这3步找回 | 「清单」 |
 | [微调数据安全问答卡](信息类/finetune-data-qa-card/README.md)：三句话讲清研究 + 自查微调数据 5 条 | Anthropic 让 Claude 专门去骗自家的数据安全检查，结果骗过了 | 「问答」 |
 | [固定流程还是智能体判断清单](信息类/workflow-or-agent-checklist/README.md)：五个问题决定用哪个 | 你也许根本不需要智能体：什么时候固定流程就够了 | 「清单」 |
 | [本周 AI 动作清单（11-09 期）](信息类/weekly-ai-actions-1109/README.md)：三篇资讯变成三项自查 | 本周AI资讯：一人公司先做这3件事 | 「清单」 |
+| [智能体协作写代码前的仓库自查清单](信息类/agent-scale-git-checklist/README.md)：GitHub 为 5000 个智能体重做 Git 存储，对团队意味着什么 + 自查 | GitHub重做Git存储：5000个智能体怎么协作？ | 「智能体」 |
 | [多任务分流模板](工具类/模板/superagent-routing-template/README.md)：规则筛、模型筛、委派提示词、巡查清单 | DeepSeek 内部那个一直在线的 AI 助手，是怎么同时推进好几件事的 | 「模板」 |
-| [一人公司接单账卡片](工具类/模板/opc-order-cards/README.md)：排期、进度、开工约定、付费试单等 9 张 | 一人公司同时做三门生意，这位作者的接单账是怎么算的 | 「卡片」 |
+| [一人公司接单账卡片](工具类/模板/opc-order-cards/README.md)：排期、进度、开工约定、付费试单等 9 张 | 一人公司：三门生意怎么算账 | 「卡片」 |
 | [Grok Bot 指挥模板包](工具类/模板/grok-commander-kit/README.md)：分工表、看板五栏、派单模板、有变化才叫醒的巡检脚本 | Grok Bot 当指挥：AI 团队怎么跑？ | 「模板」 |
 | [虚拟试穿提示词](工具类/提示词/ai-tryon-prompts/README.md)：提示词 + 挑图方法 + 出图核对清单 | 2,727 套 AI 服装参考图开源了，电商做图多了一个现成参考库 | 「提示词」 |
 
