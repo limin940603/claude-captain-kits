@@ -3,19 +3,33 @@
 公众号 / 小红书 / 抖音 / 视频号「克劳德队长」每篇内容配套的素材包：判断清单、提示词、模板，复制就能用。
 每份都注明哪些是原作者的结论、哪些是我们的建议；原作者的数据写「作者自述」，我们没实测的会标出来。
 
-| 对应内容 | 怎么领 | 位置 |
+## 先看这里：三种东西分别是什么
+
+| 类型 | 是什么 | 怎么用 | 入口 |
+|---|---|---|---|
+| 清单 / 问答卡 | 读懂一件事，再逐条自查 | 复制清单打勾，或发给 AI 帮你判断 | [信息类](信息类/README.md) |
+| 提示词 | 写好的指令 | 复制进 AI 工具，换掉尖括号里的内容 | [工具类 · 提示词](工具类/README.md#提示词) |
+| 模板 | 填空式表格和文档 | 复制进飞书 / Notion / Excel 按格子填 | [工具类 · 模板](工具类/README.md#模板) |
+
+## 全部素材包（按文章找）
+
+| 素材包 | 对应文章 | 评论领取 |
 |---|---|---|
-| [如何判断 Claude Code 和 Codex 压缩会话时遗忘了什么](kits/compaction-checklist/README.md) | 评论「清单」 | `kits/compaction-checklist/` |
-| [DeepSeek 内部那个一直在线的 AI 助手，是怎么同时推进好几件事的](kits/superagent-routing-template/README.md) | 评论「模板」 | `kits/superagent-routing-template/` |
-| [一人公司同时做三门生意，这位作者的接单账是怎么算的](kits/opc-order-cards/README.md) | 评论「卡片」 | `kits/opc-order-cards/` |
-| [你也许根本不需要智能体：什么时候固定流程就够了](kits/workflow-or-agent-checklist/README.md) | 评论「清单」 | `kits/workflow-or-agent-checklist/` |
-| [Anthropic 让 Claude 专门去骗自家的数据安全检查，结果骗过了](kits/finetune-data-qa-card/README.md) | 评论「问答」 | `kits/finetune-data-qa-card/` |
-| [2,727 套 AI 服装参考图开源了，电商做图多了一个现成参考库](kits/ai-tryon-prompts/README.md) | 评论「提示词」 | `kits/ai-tryon-prompts/` |
+| [Claude 不封号自查清单](信息类/claude-ban-checklist/README.md)：对照官方条款查有没有踩线，被封了按顺序处理 | 史上最全：Claude 封号 3 大原因 + 3 个危险信号 | 「清单」 |
+| [压缩会话防失忆清单](信息类/compaction-checklist/README.md)：压缩前留什么、压缩后怎么找回 | 如何判断 Claude Code 和 Codex 压缩会话时遗忘了什么 | 「清单」 |
+| [微调数据安全问答卡](信息类/finetune-data-qa-card/README.md)：三句话讲清研究 + 自查微调数据 5 条 | Anthropic 让 Claude 专门去骗自家的数据安全检查，结果骗过了 | 「问答」 |
+| [固定流程还是智能体判断清单](信息类/workflow-or-agent-checklist/README.md)：五个问题决定用哪个 | 你也许根本不需要智能体：什么时候固定流程就够了 | 「清单」 |
+| [本周 AI 动作清单（11-09 期）](信息类/weekly-ai-actions-1109/README.md)：三篇资讯变成三项自查 | 本周AI资讯：一人公司先做这3件事 | 「清单」 |
+| [多任务分流模板](工具类/模板/superagent-routing-template/README.md)：规则筛、模型筛、委派提示词、巡查清单 | DeepSeek 内部那个一直在线的 AI 助手，是怎么同时推进好几件事的 | 「模板」 |
+| [一人公司接单账卡片](工具类/模板/opc-order-cards/README.md)：排期、进度、开工约定、付费试单等 9 张 | 一人公司同时做三门生意，这位作者的接单账是怎么算的 | 「卡片」 |
+| [虚拟试穿提示词](工具类/提示词/ai-tryon-prompts/README.md)：提示词 + 挑图方法 + 出图核对清单 | 2,727 套 AI 服装参考图开源了，电商做图多了一个现成参考库 | 「提示词」 |
 
 另：《一个人的 AI 团队》3D 宣传片的源码和 9 条提示词在 [one-person-ai-team](https://github.com/limin940603/one-person-ai-team)。
 
 ## 用法
-把需要的那份 README.md 整段发给你的 coding agent，或直接复制里面的提示词。每份开头有「用法」和「注意」。
+- 最省事：把「阅读并执行 https://github.com/limin940603/claude-captain-kits/blob/main/SKILL.md」这句话发给你的 coding agent（Claude Code、Codex 等），它会问你从哪篇文章来，再照对应素材包做。
+- 或者按上面的类别找到对应文章，直接复制那份 README.md 里的清单和提示词。
+- 每份末尾写明信息来源：哪些是原作者或官方的内容，哪些是我们的整理和建议。
 
 ## 许可
 MIT。内容里引用的第三方原文和数据，版权归原作者，已注明出处。
