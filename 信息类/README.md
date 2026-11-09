@@ -12,3 +12,5 @@
 | [固定流程还是智能体判断清单](workflow-or-agent-checklist/README.md)：五个问题决定用哪个 | 你也许根本不需要智能体：什么时候固定流程就够了 | 「清单」 |
 | [本周 AI 动作清单（11-09 期）](weekly-ai-actions-1109/README.md)：三篇资讯变成三项自查 | 本周AI资讯：一人公司先做这3件事 | 「清单」 |
 | [智能体协作写代码前的仓库自查清单](agent-scale-git-checklist/README.md)：GitHub 为 5000 个智能体重做 Git 存储，对团队意味着什么 + 自查 | GitHub重做Git存储：5000个智能体怎么协作？ | 「智能体」 |
+| [AI 代码审查复核清单 + 自测靶场](ai-code-audit-verify-checklist/README.md)：发现者不能自证；5 个预埋漏洞 + 1 个安全对照拿去测任何审查工具 | AI查漏洞，谁来检查AI？ | 「清单」 |
+| [AI 报表数字可追溯检查卡](traceable-numbers-check-card/README.md)：每个数字能不能复算、口径有没有被改 + 约束提示词 | AI报表很漂亮，数字能复算吗？ | 「清单」 |

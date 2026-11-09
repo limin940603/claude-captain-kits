@@ -24,6 +24,10 @@
 | [多任务分流模板](工具类/模板/superagent-routing-template/README.md)：规则筛、模型筛、委派提示词、巡查清单 | DeepSeek 内部那个一直在线的 AI 助手，是怎么同时推进好几件事的 | 「模板」 |
 | [一人公司接单账卡片](工具类/模板/opc-order-cards/README.md)：排期、进度、开工约定、付费试单等 9 张 | 一人公司：三门生意怎么算账 | 「卡片」 |
 | [Grok Bot 指挥模板包](工具类/模板/grok-commander-kit/README.md)：分工表、看板五栏、派单模板、有变化才叫醒的巡检脚本 | Grok Bot 当指挥：AI 团队怎么跑？ | 「模板」 |
+| [AI 代码审查复核清单 + 自测靶场](信息类/ai-code-audit-verify-checklist/README.md)：发现者不能自证；5 个预埋漏洞 + 1 个安全对照拿去测任何审查工具 | AI查漏洞，谁来检查AI？ | 「清单」 |
+| [AI 报表数字可追溯检查卡](信息类/traceable-numbers-check-card/README.md)：每个数字能不能复算、口径有没有被改 + 约束提示词 | AI报表很漂亮，数字能复算吗？ | 「清单」 |
+| [流程瓶颈记录表](工具类/模板/flow-bottleneck-log/README.md)：需求→制作→审核→交付，记执行、等待、返工，看瓶颈有没有移动 | 人人都用AI，为什么交付还没变快？ | 「模板」 |
+| [商品图连改实测提示词](工具类/提示词/seedream-edit-test-prompts/README.md)：同一张商品图连改 8 轮的测试提示词 + 每轮核对表 | Seedream 5.5：商品图连改十版，货还对吗？ | 「提示词」 |
 | [虚拟试穿提示词](工具类/提示词/ai-tryon-prompts/README.md)：提示词 + 挑图方法 + 出图核对清单 | 2,727 套 AI 服装参考图开源了，电商做图多了一个现成参考库 | 「提示词」 |
 
 另：《一个人的 AI 团队》3D 宣传片的源码和 9 条提示词在 [one-person-ai-team](https://github.com/limin940603/one-person-ai-team)。
