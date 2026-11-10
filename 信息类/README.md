@@ -14,3 +14,4 @@
 | [智能体协作写代码前的仓库自查清单](agent-scale-git-checklist/README.md)：GitHub 为 5000 个智能体重做 Git 存储，对团队意味着什么 + 自查 | GitHub重做Git存储：5000个智能体怎么协作？ | 「智能体」 |
 | [AI 代码审查复核清单 + 自测靶场](ai-code-audit-verify-checklist/README.md)：发现者不能自证；5 个预埋漏洞 + 1 个安全对照拿去测任何审查工具 | AI查漏洞，谁来检查AI？ | 「清单」 |
 | [AI 报表数字可追溯检查卡](traceable-numbers-check-card/README.md)：每个数字能不能复算、口径有没有被改 + 约束提示词 | AI报表很漂亮，数字能复算吗？ | 「清单」 |
+| [Fable 5.2 选型判断清单](fable-52-choice-checklist/README.md)：五个问题判断该不该上 Fable + 分工表 + 会员福利打勾 | Claude Fable 5.2发布：跑分、案例、价格一次看懂 | 「清单」 |
